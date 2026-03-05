@@ -35,9 +35,9 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -62,9 +62,9 @@ cos:1</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -90,9 +90,9 @@ cos:1</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -113,9 +113,9 @@ cos:1</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -180,9 +180,9 @@ cos:1</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -253,9 +253,9 @@ cos:1</code></pre>
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -355,9 +355,9 @@ cos:1</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
@@ -378,9 +378,9 @@ cos:1</code></pre>
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print sin($1); print cos($1)}'
-echo 1.57 | awk '{print sin($1); print cos($1)}'
-echo π | awk '{print sin($1); print cos($1)}'</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>echo 0 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo 1.57 | awk '{print "sin:" sin($1); print "cos:" cos($1)}'
+echo π | awk '{print "sin:" sin($1); print "cos:" cos($1)}'</code></pre>
 
 
 
